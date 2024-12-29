@@ -70,7 +70,7 @@ The pre-trained corpus is not publicly available due to data permissions. The le
 
 ### Train
 
-We can pre-train model with ```sh sailer.sh```
+We can pre-train model with ```sh delta.sh```
 
 ```
 CUDA_VISIBLE_DEVICES=1,5,6,8 python -m torch.distributed.launch \
