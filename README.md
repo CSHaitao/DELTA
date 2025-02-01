@@ -36,9 +36,9 @@ We have uploaded some checkpoints to Huggingface Hub.
 
 | Model              | Description                                               | Link                                                         |
 | ------------------ | --------------------------------------------------------- | ------------------------------------------------------------ |
-| DELTA_zh          | Pre-training on Chinese criminal law legal case documents               | [CSHaitao/DELTA_zh]()    |
-| DELTA_en          | Pre-trianed on English legal case documents                | [CSHaitao/DELTA_en]() |
-| DELTA_en_finetune | Finetune the DELTA_en on the COLIEE training data | [CSHaitao/DELTA_en_finetune]()             
+| DELTA_zh          | Pre-training on Chinese criminal law legal case documents               | [CSHaitao/DELTA_zh](CSHaitao/DELTA_CN)    |
+| DELTA_en          | Pre-trianed on English legal case documents                | [CSHaitao/DELTA_en](CSHaitao/DELTA_EN) |
+| DELTA_en_finetune | Finetune the DELTA_en on the COLIEE training data | [CSHaitao/DELTA_en_finetune](CSHaitao/DELTA_EN_Finetune)             
 
 You can load them quickly with following codes:
 
