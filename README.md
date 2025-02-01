@@ -29,7 +29,7 @@ pyserini==0.20.0
 jieba==0.42.1 
 ```
 
-<!-- ### Released Models
+### Released Models
 
 
 We have uploaded some checkpoints to Huggingface Hub.
@@ -45,7 +45,7 @@ You can load them quickly with following codes:
 ```
 from transformers import AutoModel
 model = AutoModel.from_pretrained('CSHaitao/DELTA_CH')
-``` -->
+``` 
 
 
 ## Pretrain
